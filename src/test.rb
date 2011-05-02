@@ -1,0 +1,2 @@
+a = {:tba_link=>"http://www.thebluealliance.net/tbatv/team.php?team=16", :city=>"Mountain Home", :state=>"AR", :country=>"USA", :rookieyear=>"1996", :robotname=>"Two Minute Warning", :name=>"Baxter Healthcare Corp/The Science and Technology Group &amp; Mountain Home High School", :website=>"http://baxterbombsquad.com", :teamnumber=>"16", :informalname=>"Bomb Squad"}
+a.each_key {|key| puts key}
